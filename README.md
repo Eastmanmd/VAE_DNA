@@ -1,0 +1,1 @@
+This is an attempt to integrate variational Autoencoder technology using DNA sequence. DNA sequence was obtained through NGS technology and is representative of a microbial communities present at a specific site at Nachusa prairie grasslands located in Illinois, USA. 
