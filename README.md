@@ -1,1 +1,1 @@
-The goal of this project is to uitlize some common deep learning architecture of DNA sequences. The DNA sequence was obtained through NGS technology and is representative of microbial communities present at a specific site at Nachusa prairie grasslands located in Illinois, USA. 
+The goal of this project is to uitlize some common deep learning architecture to encode DNA sequences. The DNA sequence was obtained through NGS technology and is representative of microbial communities present at a specific site at Nachusa prairie grasslands, Illinois, USA. 
